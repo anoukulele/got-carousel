@@ -1,0 +1,26 @@
+..App {
+  text-align: center;
+}
+
+.Card {
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+width: auto;
+height: 500px;
+border-radius: 300px;
+align-items: center
+}
+
+
+.CardItem {
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+align-items: center;
+width: 280px;
+height: 450px;
+border: 20px solid #E0938E;
+background: #E0938E; 
+border-radius: 50px;
+}
